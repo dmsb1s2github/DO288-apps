@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "dsung1-dtcc-com-books-dev"
         STAGE_PROJECT = "dsung1-dtcc-com-books-stage"
         APP_GIT_URL = "https://github.com/dsung1-dtcc-com/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com"
+        NEXUS_SERVER = "nexus-common.apps.na45.prod.nextcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
